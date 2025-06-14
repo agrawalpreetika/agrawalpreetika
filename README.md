@@ -7,8 +7,8 @@
   <i>Web Developer • Java Enthusiast • Creative Thinker</i>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F7931E&width=400&lines=React+%7C+JavaScript+%7C+Java+DSA+%7C+Python+%7C+CSS+%7C+HTML+%7C+Git+%7C" alt="Typing SVG">
+<p align="center" >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F7931E&width=700&lines=React+%7C+JavaScript+%7C+Java%7C+Python+%7C" alt="Typing SVG">
 </p>
 
 ---
