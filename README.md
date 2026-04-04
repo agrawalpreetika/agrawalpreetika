@@ -10,7 +10,7 @@
 
 ---
 
-## 🌸 About Me (but aesthetic ✨)
+## 🌸 About Me
 
 <div align="center">
 
