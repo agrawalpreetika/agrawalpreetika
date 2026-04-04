@@ -32,13 +32,13 @@
       - 🛠️ Currently exploring **System Design** & **Cybersecurity**.
       - 🎨 Crafting interactive UIs with **Next.js** & **Framer Motion**.
       - 🤖 Optimizing workflows using **AI-integrated tools** (Cursor, Copilot).
-      
+      <td width="40%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=agrawalpreetika&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+    </td>
     </td>
     
   </tr>
-  <td width="40%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=agrawalpreetika&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
-    </td>
+  
 </table>
 
 ---
