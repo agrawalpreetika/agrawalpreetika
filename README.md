@@ -1,107 +1,104 @@
-<!-- ===== HEADER ===== -->
-<h1 align="center">Hi, I'm Preetika Agrawal 👋</h1>
+<!-- ====== CUSTOM BANNER ====== -->
 <p align="center">
-  <b>Full Stack Developer (MERN) • Java • Creative Builder</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=200&section=header&text=Preetika%20Agrawal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Crafting+Beautiful+Full+Stack+Apps;MERN+Stack+Developer;DSA+%7C+Java;Always+Building+Something+Cool+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Design+%2B+Code+%3D+Magic;Java+%7C+DSA+%7C+Backend;Building+Cool+Things+🚀"/>
 </p>
 
 ---
 
-<!-- ===== ABOUT ===== -->
-## 🧠 About Me
+<!-- ====== GLASS CARD: ABOUT ====== -->
+## 🧊 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  
+💻 **Full Stack Developer (MERN)**  
+🎓 B.Tech CSE @ IGDTUW  
+⚡ Strong in **DSA (Java)**  
+🔍 Exploring **Backend + Databases**  
+🔐 Learning **Cybersecurity**  
+🎨 Creative mind who loves aesthetic builds  
 
-- 🎓 B.Tech CSE @ IGDTUW  
-- 💻 Focused on **Full Stack Development (MERN)**  
-- ⚡ Strong in **DSA (Java)**  
-- 🔍 Exploring **Backend Systems & Databases**  
-- 🔐 Curious about **Cybersecurity**  
-- 🎨 Creative thinker who loves building & designing  
+</p>
 
 ---
 
-<!-- ===== TECH STACK ===== -->
-## 🛠️ Tech Stack
+<!-- ====== GLASS CARD: TECH STACK ====== -->
+## 🛠️ Tech Arsenal
 
-### 🚀 Core Stack
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 </p>
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,python,cpp" />
 </p>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-</p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,vscode,postman" />
 </p>
 
 ---
 
-<!-- ===== PROJECTS ===== -->
-## 🚀 Projects
+<!-- ====== GLASS CARD: PROJECT ====== -->
+## 🚀 Featured Project
+
+<div align="center">
 
 ### 🛒 IGDTUW Marketplace  
-A dedicated platform for students to buy & sell within campus.
 
-✨ Features:
-- Authentication system  
-- Product listings  
-- Clean UI/UX  
+<i>A minimal campus marketplace platform for seamless buying & selling.</i>
+
+</div>
 
 ---
 
-<!-- ===== STATS ===== -->
-## 📊 GitHub Analytics
+<!-- ====== GLASS CARD: STATS ====== -->
+## 📊 GitHub Universe
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=agrawalpreetika&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalpreetika&theme=radical&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=agrawalpreetika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalpreetika&theme=tokyonight&hide_border=true&background=0d1117"/>
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpreetika&layout=compact&theme=radical&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpreetika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 ---
 
-<!-- ===== CURRENT ===== -->
-## 🌱 Currently Working On
+<!-- ====== GLASS CARD: CURRENT ====== -->
+## 🌱 Currently Evolving
 
-- 🚀 Advanced Backend (Node.js + Express)  
-- 🧠 System Design  
-- 🔐 Cybersecurity Basics  
-- 🎯 Real-world Full Stack Projects  
+<p align="center">
+
+🚀 Advanced Backend (Node.js + Express)  
+🧠 System Design  
+🔐 Cybersecurity  
+🎯 Real-world Full Stack Projects  
+
+</p>
 
 ---
 
-<!-- ===== CONNECT ===== -->
-## 🤝 Connect With Me
+<!-- ====== CONNECT ====== -->
+## 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/preetika-agrawal-451a83288/">
-    <img src="https://img.shields.io/badge/LinkedIn-Preetika%20Agrawal-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Preetika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- ===== FOOTER ===== -->
+<!-- ====== FOOTER ====== -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  ✨ <i>Design. Code. Create. Repeat.</i> ✨
+  <i>⚡ “Build with logic. Design with soul.”</i>
 </p>
