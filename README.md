@@ -1,104 +1,132 @@
-<!-- ====== CUSTOM BANNER ====== -->
+<!-- ===== HERO ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=200&section=header&text=Preetika%20Agrawal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e293b,100:6366f1&height=180&section=header&text=Preetika%20Agrawal&fontSize=38&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Design+%2B+Code+%3D+Magic;Java+%7C+DSA+%7C+Backend;Building+Cool+Things+🚀"/>
-</p>
-
----
-
-<!-- ====== GLASS CARD: ABOUT ====== -->
-## 🧊 About Me
-
-<p align="center">
-  
-💻 **Full Stack Developer (MERN)**  
-🎓 B.Tech CSE @ IGDTUW  
-⚡ Strong in **DSA (Java)**  
-🔍 Exploring **Backend + Databases**  
-🔐 Learning **Cybersecurity**  
-🎨 Creative mind who loves aesthetic builds  
-
+  <b>Full Stack Developer (MERN) • Java • Problem Solver</b>
 </p>
 
 ---
 
-<!-- ====== GLASS CARD: TECH STACK ====== -->
-## 🛠️ Tech Arsenal
+<!-- ===== CARDS: ABOUT ===== -->
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
+### 🧠 About Me
+- 🎓 B.Tech CSE @ IGDTUW  
+- 💻 MERN Stack Developer  
+- ⚡ DSA in Java  
+- 🔍 Backend + Databases  
+- 🎨 Creative + Builder mindset  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,python,cpp" />
-</p>
+</td>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,vscode,postman" />
-</p>
+<td width="50%">
+
+### 🌱 Currently
+- 🚀 Node.js + Express  
+- 🧠 System Design  
+- 🔐 Cybersecurity  
+- 🎯 Full Stack Projects  
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ====== GLASS CARD: PROJECT ====== -->
-## 🚀 Featured Project
+<!-- ===== CARDS: TECH STACK ===== -->
+### 🛠️ Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+**Frontend**  
+<br>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+
+</td>
+
+<td align="center" width="33%">
+
+**Backend**  
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</td>
+
+<td align="center" width="33%">
+
+**Database**  
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Languages**  
+<br>
+<img src="https://skillicons.dev/icons?i=java,python,cpp" />
+
+</td>
+
+<td align="center" width="50%">
+
+**Tools**  
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===== PROJECT CARD ===== -->
+### 🚀 Featured Project
+
+<table>
+<tr>
+<td>
 
 ### 🛒 IGDTUW Marketplace  
+Campus marketplace for buying & selling  
 
-<i>A minimal campus marketplace platform for seamless buying & selling.</i>
+- 🔐 Authentication  
+- 📦 Product Listings  
+- 🎯 Clean UI  
 
-</div>
-
----
-
-<!-- ====== GLASS CARD: STATS ====== -->
-## 📊 GitHub Universe
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=agrawalpreetika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalpreetika&theme=tokyonight&hide_border=true&background=0d1117"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpreetika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ====== GLASS CARD: CURRENT ====== -->
-## 🌱 Currently Evolving
+<!-- ===== STATS CARDS ===== -->
+### 📊 GitHub Stats
 
 <p align="center">
-
-🚀 Advanced Backend (Node.js + Express)  
-🧠 System Design  
-🔐 Cybersecurity  
-🎯 Real-world Full Stack Projects  
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=agrawalpreetika&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalpreetika&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<!-- ====== CONNECT ====== -->
-## 🤝 Connect
+<!-- ===== CONNECT ===== -->
+### 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/preetika-agrawal-451a83288/">
-    <img src="https://img.shields.io/badge/LinkedIn-Preetika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Preetika%20Agrawal-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-</p>
-
----
-
-<!-- ====== FOOTER ====== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <i>⚡ “Build with logic. Design with soul.”</i>
 </p>
