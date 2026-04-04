@@ -261,9 +261,9 @@ MongoDB • Express • React • Node.js (MERN)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=agrawalpreetika&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalpreetika&theme=radical&hide_border=true&background=0D1117" height="180"/>
 
 </div>
 
@@ -287,7 +287,7 @@ MongoDB • Express • React • Node.js (MERN)
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/preetika-agrawal-451a83288/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-00F5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" />
 </a>
 
