@@ -1,9 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=0D1117&height=200&section=header&text=Preetika%20Agrawal&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=61ffca" width="100%" />
+<h1 align="center" style="border-bottom: none; color: #61ffca; font-family: 'Poppins', sans-serif; font-size: 70px; margin-bottom: 0;">
+  Preetika Agrawal
+</h1>
 
 ### 🌌 Architecting the Future of Web & Algorithms
-**Incoming Software Engineering Intern @ Morgan Stanley** *Full Stack Developer | Java + DSA Specialist | IGDTUW '27*
+**Incoming Software Engineering Intern @ Morgan Stanley**
+*Full Stack Developer | Java + DSA Specialist | IGDTUW '27*
+
+<br />
 
 <p align="center">
 <a href="https://linkedin.com/in/preetika-agrawal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" /></a>
@@ -87,6 +92,6 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=30&section=footer" width="100%" />
+<hr style="border: 1px solid #61ffca;" />
 
 </div>
