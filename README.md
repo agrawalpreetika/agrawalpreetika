@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1 align="center" style="border-bottom: none; color: #61ffca; font-family: 'Poppins', sans-serif; font-size: 70px; margin-bottom: 0;">
-  Preetika Agrawal
-</h1>
+<img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=61ffca&text=Preetika%20Agrawal&fontSize=80&fontAlignY=35&animation=fadeIn" width="100%" alt="Preetika Agrawal" />
 
 ### 🌌 Architecting the Future of Web & Algorithms
 **Incoming Software Engineering Intern @ Morgan Stanley**
@@ -11,24 +9,28 @@
 <br />
 
 <p align="center">
-<a href="https://linkedin.com/in/preetika-agrawal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" /></a>
-<a href="mailto:preetika.work@gmail.com"><img src="https://img.shields.io/badge/Connect-BD93F9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000" /></a>
+<a href="https://linkedin.com/in/preetika-agrawal">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="mailto:preetika.work@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+</a>
 </p>
 
 ---
 
 ### ✦ THE BLUEPRINT ✦
 
-<table align="center" width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="55%" valign="top">
       <h4>🚀 CORE IDENTITY</h4>
-      <ul>
-        <li><b>Academic:</b> 3rd Year B.Tech CSE @ <b>IGDTUW</b></li>
-        <li><b>Career:</b> Incoming Intern @ <b>Morgan Stanley</b></li>
-        <li><b>Stack:</b> Expert in <b>MERN</b> & Scalable Architectures</li>
-        <li><b>Logic:</b> Dedicated <b>Java</b> Competitive Programmer</li>
-      </ul>
+      <p>
+        🎓 3rd Year B.Tech CSE @ <b>IGDTUW</b><br />
+        💼 Incoming Intern @ <b>Morgan Stanley</b><br />
+        🛠️ Expert in <b>MERN Stack</b> & Scalable Apps<br />
+        🧩 Passionate about <b>Java & Data Structures</b>
+      </p>
     </td>
     <td width="45%" valign="top">
       <h4>🎨 CREATIVE PULSE</h4>
@@ -41,40 +43,57 @@
 
 ### 🛠️ TECH ORCHESTRATION
 
+<br />
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,py,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,github,postman,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,js,py,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,github,postman,vscode&perline=7" alt="Tech Stack" />
 </div>
+
+<br />
 
 ---
 
 ### 📂 SIGNATURE ARCHITECTURE
 
+<br />
+
 <div align="center">
-  <br />
   <table width="95%">
     <tr>
-      <td align="center" style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); border: 1px solid #61ffca; border-radius: 20px; padding: 30px;">
+      <td align="center" style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); border: 1px solid #61ffca; border-radius: 20px; padding: 35px;">
         <h2 style="color: #61ffca; margin-bottom: 5px;">🏛️ IGDTUW Marketplace</h2>
-        <p style="color: #8b949e;">A sophisticated campus commerce engine built to handle high-concurrency transactions within the IGDTUW ecosystem. Optimized for speed, security, and seamless UI transitions.</p>
+        <p style="color: #8b949e; font-size: 16px; margin-bottom: 20px;">A sophisticated campus commerce engine built to handle high-concurrency transactions within the IGDTUW ecosystem. Optimized for speed, security, and seamless UI transitions.</p>
         <p>
-          <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+          <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
         </p>
       </td>
     </tr>
   </table>
 </div>
 
+<br />
+
 ---
 
-### 📉 VITAL ANALYTICS
+### 📉 PERFORMANCE METRICS
+
+<br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agrawalpreetika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61ffca&icon_color=BD93F9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalpreetika&theme=tokyonight&hide_border=true&background=0D1117&stroke=BD93F9&ring=61ffca&fire=FF79C6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agrawalpreetika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61ffca&icon_color=BD93F9" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalpreetika&theme=tokyonight&hide_border=true&background=0D1117&stroke=BD93F9&ring=61ffca&fire=FF79C6" width="48%" alt="GitHub Streak" />
 </p>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/agrawalpreetika/agrawalpreetika/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</div>
+
+<br />
 
 ---
 
@@ -86,12 +105,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/agrawalpreetika/agrawalpreetika/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
-
 <br />
 
-<hr style="border: 1px solid #61ffca;" />
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=30&section=footer" width="100%" />
 
 </div>
