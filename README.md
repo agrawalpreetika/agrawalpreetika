@@ -1,74 +1,108 @@
-<!-- Profile README for agrawalpreetika -->
+<!-- PROFILE README -->
 
-<h1 align="center">Hi there, I'm Preetika Agrawal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32"></h1>
-
-<p align="center">
-  <b>Third Year B.Tech CSE Student at IGDTUW</b> <br>
-  <i>Web Developer • Java Enthusiast • Creative Thinker</i>
-</p>
-
-<p align="center" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=F7931E&width=500&lines=React+%7C+JavaScript+%7C+Java%7C+Python+%7C" alt="Typing SVG">
-</p>
-
----
-
-## 🚀 Projects
-
-- **IGDTUW Marketplace**  
-  <sub>A dedicated platform for the IGDTUW community to connect, buy, and sell products within the campus ecosystem.</sub>
-
----
-
-## 🛠️ Languages & Tools
+<h1 align="center">Hey 👋, I'm Preetika Agrawal</h1>
+<h3 align="center">🚀 Full Stack Developer | 💻 B.Tech CSE @ IGDTUW | 🎨 Creative Thinker</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Basics-blueviolet?style=for-the-badge" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-Exploring-ff69b4?style=for-the-badge" alt="Cybersecurity"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Java+%7C+DSA+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+Something+New!" />
 </p>
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## 🧠 About Me
 
-- Diving deeper into <b>React</b> and advanced web development.
-- Sharpening my <b>DSA skills in Java</b>.
-- Building my <b>personal portfolio website</b>.
-- Exploring the world of <b>cybersecurity</b>.
-- Hoping to find more time for art and creative pursuits!
-
----
-
-## 🎨 About Me
-
-- 🎨 Drawing and creativity are my all-time favorite things!
-- 💡 I love thinking outside the box and tackling new challenges.
-- ✨ Always open to learning, collaborating, and sharing ideas.
+- 🎓 Third Year B.Tech CSE Student at **IGDTUW**
+- 💻 Passionate about **Full Stack Development (MERN)**
+- ⚡ Strong in **Data Structures & Algorithms (Java)**
+- 🔍 Exploring **Backend Systems & Databases**
+- 🔐 Curious about **Cybersecurity**
+- 🎨 Love blending **Creativity + Tech**
 
 ---
 
-## 📫 Connect with Me
+## 🚀 Tech Stack
 
+### 🌐 Frontend
 <p>
-  <a href="https://www.linkedin.com/in/preetika-agrawal-451a83288/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧩 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 💼 Projects
+
+### 🛒 IGDTUW Marketplace
+> A campus-based platform for students to buy/sell products within the college community.
+
+✨ Features:
+- Secure authentication
+- Product listings & search
+- User-friendly UI
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agrawalpreetika&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agrawalpreetika&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- 🚀 Advanced Backend Development (Node.js, Express)
+- 🧠 System Design Basics
+- 🔐 Cybersecurity Fundamentals
+- 🎯 Building Real-world Full Stack Projects
+
+---
+
+## 🎨 Fun Side
+
+- ✏️ Sketching & Art
+- 💡 Creative problem solving
+- 🌟 Love experimenting with new ideas
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/preetika-agrawal-451a83288/">
+    <img src="https://img.shields.io/badge/LinkedIn-Preetika%20Agrawal-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Creativity%20is%20intelligence%20having%20fun!&author=Albert%20Einstein" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-<p align="center"><i>Thanks for stopping by! 🌟</i></p>
+<p align="center">
+  ⭐️ <i>"Building things that make an impact"</i> ⭐️
+</p>
