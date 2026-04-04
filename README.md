@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Preetika%20Agrawal&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=220&section=header&text=Preetika%20Agrawal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Engineer+%F0%9F%9A%80;Creative+Mind+%F0%9F%8E%A8;Building+Impactful+Systems+%E2%9C%A8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=700&color=7DF9FF&center=true&vCenter=true&width=820&lines=Full+Stack+Engineer+%F0%9F%92%BB;MERN+Stack+%7C+Backend+Focused+%F0%9F%9A%80;Java+%2B+DSA+%F0%9F%A7%A0;Creative+Technologist+%F0%9F%8E%A8;Building+Real+World+Products+%E2%9C%A8" />
 
 </div>
 
@@ -12,46 +12,59 @@
 
 <div align="center">
 
-💻 MERN Stack Developer
+💻 Full Stack Developer (MERN)
 🎓 B.Tech CSE @ IGDTUW
 🏦 Incoming Intern @ Morgan Stanley
-🧠 Java + DSA
-🎨 Creative + Aesthetic thinker
+🧠 Strong in Java + DSA
+🎨 Creative thinker who loves clean & aesthetic systems
 
 </div>
 
 ---
 
-## 🧠 Developer Mindset
+## 🧠 Developer Philosophy
 
 <div align="center">
 
 ```diff
-+ I build scalable backend systems
-+ I turn ideas into real products
-+ I care about clean architecture
-+ I blend creativity with logic
++ Build systems, not just features
++ Write clean, scalable, maintainable code
++ Solve problems with strong fundamentals
++ Blend creativity with engineering
 ```
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Project Showcase
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🛍️ IGDTUW Marketplace
 
-⚡ Campus-focused buying & selling platform
-💡 Built for real users, real needs
-🧩 Focus on usability + scalability
+⚡ Campus marketplace platform
+🤝 Connects students for buying/selling
+🧩 Focus on UX + scalability
+
+</td>
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212897845-7d6c9d8e-76e3-4c87-8a73-9c2f9f6bde3f.gif" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack ⚙️
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -61,20 +74,20 @@
 
 ---
 
-## 🌌 Currently Exploring
+## 🌌 Current Focus
 
 <div align="center">
 
-⚙️ Advanced Backend Systems
-🧠 System Design Thinking
-🔐 Cybersecurity Basics
-🌐 Real-world Full Stack Apps
+⚙️ Advanced Backend & System Design
+🧠 DSA Mastery in Java
+🔐 Cybersecurity Exploration
+🌐 Building production-level projects
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics ⚡
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -85,7 +98,7 @@
 
 ---
 
-## 🧬 Contribution Graph 🐍
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -95,7 +108,7 @@
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -107,10 +120,21 @@
 
 ---
 
+## ✨ Developer Vibes
+
 <div align="center">
 
-💙 "Build. Learn. Evolve." 💙
+> "I don’t just write code. I design systems." ⚡
+> "Consistency > Motivation" 💫
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=140&section=footer" />
+
+💙 Thanks for visiting — let’s build something amazing 💙
 
 </div>
