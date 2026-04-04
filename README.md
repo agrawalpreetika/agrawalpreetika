@@ -34,10 +34,11 @@
       - 🤖 Optimizing workflows using **AI-integrated tools** (Cursor, Copilot).
       
     </td>
-    <td width="40%" valign="top">
+    
+  </tr>
+  <td width="40%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=agrawalpreetika&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
     </td>
-  </tr>
 </table>
 
 ---
