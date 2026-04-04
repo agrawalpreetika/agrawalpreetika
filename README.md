@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=50&pause=1000&color=61ffca&center=true&vCenter=true&width=600&height=100&lines=PREETIKA+AGRAWAL" alt="Preetika Agrawal" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Full+Stack+Architect;MERN+Stack+Expert;Java+%2B+DSA+Specialist;Incoming+Intern+@+Morgan+Stanley" />
-
 <br />
+<h1 align="center" style="border-bottom: none; color: #61ffca; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 60px; font-weight: 800; margin-bottom: 10px; letter-spacing: 2px;">
+  PREETIKA AGRAWAL
+</h1>
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=2&section=header&text=%20" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Full+Stack+Architect;MERN+Stack+Expert;Java+%2B+DSA+Specialist;Incoming+Intern+@+Morgan+Stanley" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/preetika-agrawal">
@@ -26,8 +27,8 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="20" align="center">
   <tr>
-    <td width="50%" valign="top" style="border-right: 1px solid #1f2937;">
-      <h3 style="color: #61ffca; font-family: sans-serif;">🚀 CORE IDENTITY</h3>
+    <td width="50%" valign="top" style="border-right: 1px solid #30363d;">
+      <h3 style="color: #61ffca;">🚀 CORE IDENTITY</h3>
       <p style="font-size: 16px; line-height: 1.6;">
         🎓 <b>3rd Year B.Tech CSE</b> @ IGDTUW <br />
         💼 <b>Incoming Intern</b> @ Morgan Stanley <br />
@@ -36,7 +37,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 style="color: #BD93F9; font-family: sans-serif;">🎨 CREATIVE PULSE</h3>
+      <h3 style="color: #BD93F9;">🎨 CREATIVE PULSE</h3>
       <p style="font-size: 15px; line-height: 1.6; color: #8b949e;">
         <i>"I believe code should be as poetic as it is performant. My mission is to bridge the gap between complex backend logic and seamless, aesthetic user interfaces."</i>
       </p>
@@ -62,26 +63,28 @@
 
 <br />
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" style="background: linear-gradient(145deg, #0d1117, #1a202c); border: 2px solid #61ffca; border-radius: 30px; padding: 45px;">
-        <h2 style="color: #61ffca; letter-spacing: 3px; font-family: sans-serif;">🏛️ IGDTUW MARKETPLACE</h2>
-        <p style="color: #cbd5e0; font-size: 17px; line-height: 1.8; max-width: 80%;">A sophisticated campus commerce engine built to handle high-concurrency transactions within the IGDTUW ecosystem. Optimized for speed, security, and seamless UI transitions.</p>
-        <br />
-        <p>
-          <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="95%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="background-color: #161b22; border: 2px solid #61ffca; border-radius: 20px; padding: 40px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+          <h2 style="color: #61ffca; letter-spacing: 3px; margin-bottom: 10px;">🏛️ IGDTUW MARKETPLACE</h2>
+          <p style="color: #c9d1d9; font-size: 17px; line-height: 1.6; max-width: 85%;">A high-performance P2P commerce engine architected for the campus ecosystem. Optimized for rapid data retrieval and fluid user transitions.</p>
+          <br />
+          <p>
+            <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+          </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
 ---
 
-### 📈 PERFORMANCE METRICS
+### 📉 PERFORMANCE METRICS
 
 <br />
 
@@ -104,19 +107,22 @@
 
 <table width="100%" border="0" cellspacing="10">
   <tr>
-    <td style="background: #161b22; padding: 20px; border-radius: 15px; border-left: 5px solid #61ffca;">
-      <b>Logic First:</b> <i>Algorithms provide the soul; UI provides the skin. Neither is complete without the other.</i>
+    <td style="background: #161b22; padding: 25px; border-radius: 15px; border-left: 5px solid #61ffca;">
+      <b style="color: #61ffca;">Logic First:</b> <br /> <i>Algorithms provide the soul; UI provides the skin. Neither is complete without the other.</i>
     </td>
   </tr>
   <tr>
-    <td style="background: #161b22; padding: 20px; border-radius: 15px; border-left: 5px solid #BD93F9;">
-      <b>The Digital Legacy:</b> <i>I don't just build features; I solve human problems through the lens of technology.</i>
+    <td style="background: #161b22; padding: 25px; border-radius: 15px; border-left: 5px solid #BD93F9;">
+      <b style="color: #BD93F9;">The Digital Legacy:</b> <br /> <i>I don't just build features; I solve human problems through the lens of technology.</i>
     </td>
   </tr>
 </table>
 
 <br />
+<br />
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=40&section=footer" width="100%" />
+<div align="center">
+  <p style="color: #8b949e; font-size: 14px;">Designed with ⚡ by Preetika Agrawal</p>
+</div>
 
 </div>
