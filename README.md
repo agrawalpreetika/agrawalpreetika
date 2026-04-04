@@ -1,55 +1,57 @@
 <div align="center">
 
-# ✨ Preetika Agrawal ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Preetika%20Agrawal&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20World&fontSize=40&fontAlignY=35" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Explorer+%F0%9F%9A%80;Creative+Mind+%F0%9F%8E%A8;Building+Cool+Things+%E2%9C%A8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Engineer+%F0%9F%9A%80;Creative+Mind+%F0%9F%8E%A8;Building+Impactful+Systems+%E2%9C%A8" />
 
 </div>
 
 ---
 
-## 🌸 About Me
+## ⚡ About Me
 
 <div align="center">
 
 💻 MERN Stack Developer
 🎓 B.Tech CSE @ IGDTUW
 🏦 Incoming Intern @ Morgan Stanley
-🧠 Java + DSA Lover
-🎨 Artist + Creative Soul
+🧠 Java + DSA
+🎨 Creative + Aesthetic thinker
 
 </div>
 
 ---
 
-## 💎 What I Do
+## 🧠 Developer Mindset
+
+<div align="center">
 
 ```diff
-+ Build scalable full-stack applications
-+ Solve problems using Java & DSA
-+ Design clean & aesthetic UIs
-+ Continuously learn & evolve
++ I build scalable backend systems
++ I turn ideas into real products
++ I care about clean architecture
++ I blend creativity with logic
 ```
+
+</div>
 
 ---
 
-## 🚀 Featured Creation
+## 🚀 Featured Project
 
 <div align="center">
 
 ### 🛍️ IGDTUW Marketplace
 
-💡 A smart campus marketplace
-🤝 Connecting students within ecosystem
-⚡ Built for usability + scalability
+⚡ Campus-focused buying & selling platform
+💡 Built for real users, real needs
+🧩 Focus on usability + scalability
 
 </div>
 
 ---
 
-## 🛠️ Tech Universe 🌈
+## 🛠️ Tech Stack ⚙️
 
 <div align="center">
 
@@ -59,47 +61,46 @@
 
 ---
 
-## 🌱 Currently Leveling Up
+## 🌌 Currently Exploring
 
 <div align="center">
 
-🧠 Advanced Backend Systems
-⚙️ System Design Basics
-🔐 Cybersecurity Exploration
-🌐 Real-world Full Stack Projects
+⚙️ Advanced Backend Systems
+🧠 System Design Thinking
+🔐 Cybersecurity Basics
+🌐 Real-world Full Stack Apps
 
 </div>
 
 ---
 
-## 📊 GitHub Energy ⚡
+## 📊 GitHub Analytics ⚡
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=agrawalpreetika&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://streak-stats.demolab.com?user=agrawalpreetika&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=agrawalpreetika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
+<img src="https://streak-stats.demolab.com?user=agrawalpreetika&theme=tokyonight&hide_border=true&background=0d1117" height="170" />
 
 </div>
 
 ---
 
-## 🧠 Vibe Section ✨
+## 🧬 Contribution Graph 🐍
 
 <div align="center">
 
-> "Code. Create. Repeat." 💖
-> "Consistency is my superpower." ⚡
+<img src="https://github.com/agrawalpreetika/agrawalpreetika/blob/output/github-contribution-grid-snake.svg" />
 
 </div>
 
 ---
 
-## 🌐 Let's Connect 🌷
+## 🌐 Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/preetika-agrawal-451a83288/">
-  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -108,8 +109,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+💙 "Build. Learn. Evolve." 💙
 
-💖 Thanks for visiting 💖
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
 
 </div>
