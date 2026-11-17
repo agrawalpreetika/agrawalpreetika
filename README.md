@@ -43,8 +43,34 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,react,nodejs,express,mongodb,fastapi,tailwind,docker,git" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,react,nodejs,express,mongodb,fastapi,flutter,firebase,tailwind,docker,git" />
 </p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/><br/>
+
+<!-- ================= FEATURED PROJECT SECTION ================= -->
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" style="background: linear-gradient(145deg, rgba(138,43,226,0.08) 0%, rgba(0,245,255,0.06) 100%); padding: 28px; border-radius: 24px; border: 1px solid rgba(138,43,226,0.35); box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+
+### 🚀 FEATURED PROJECT
+
+<br/>
+
+### **[DueWise - Smart Subscription & Bill Tracker](https://github.com/agrawalpreetika/DueWise)**
+> *A sleek, cross-platform subscription and bill management app built with **Flutter**, **Riverpod**, and **Firebase Firestore**. Features real-time multi-device sync, smart local notifications, free trial tracking, and a gorgeous dark/light theme.*
+
+<br/>
+
+<a href="https://github.com/agrawalpreetika/DueWise"><img src="https://img.shields.io/badge/View%20Repository-DueWise-00F5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=05050A"/></a>
 
 </td>
 </tr>
